@@ -23,7 +23,7 @@ MySQL 8.0+
 
 🚀 Установка и запуск
 1. Клонирование репозитория
-   git clone https://github.com/yourusername/music_service.git
+   git clone https://github.com/speedwalt1/music_service.git
    cd music-service
 3. Установка зависимостей
     pip install -r requirements.txt
