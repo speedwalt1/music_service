@@ -31,6 +31,7 @@ MySQL 8.0+
    
 Создайте базу данных MySQL и настройте конфигурационный файл:
 config.txt
+
 [DATABASE]
 DB_HOST=localhost
 DB_PORT=3306
